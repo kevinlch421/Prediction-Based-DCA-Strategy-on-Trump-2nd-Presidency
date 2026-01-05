@@ -23,7 +23,11 @@ Since the results seemed too good to be true, the first part of this repository 
 
 ## Executive Summary
 
+## Dataset Structure and ERD (Entity Relationship Diagram)
 
+This database integrates market prices, macroeconomic indicators, and news sentiment from 2017–2025. Data is sourced from [Yahoo Finance](https://github.com/ranaroussi/yfinance.git), [investing.com](https://www.investing.com/economic-calendar/), [Finviz](https://finviz.com/news.ashx), and [the FNSPID dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset.git), then automatically ingested into SQLite on a daily schedule. The design supports time‑series analysis and strategy backtesting in a production‑like workflow.
+
+> For detailed schemas and data types, see: [01_Create_Database.ipynb](https://github.com/kevinlch421/Prediction-Based-DCA-Strategy-on-Trump-2nd-Presidency/blob/main/notebook/01_Create_Database.ipynb)
 
 ## Academic & Professional Contribution
 
