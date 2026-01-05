@@ -4,7 +4,26 @@
 
 **Prediction-Based Dollar-Cost Averaging (DCA) on Trump’s Second Presidency** is an end-to-end machine learning project focused on forecasting QQQ ETF returns during a hypothetical second Trump presidency. The project integrates price, macroeconomic, and news sentiment data to inform an adaptive DCA strategy, aiming to outperform traditional approaches in politically volatile periods.
 
----
+## Table of Contents
+1. [Project Background](#project-background)
+2. [Executive Summary](#executive-summary)
+3. [Dataset Structure and ERD (Entity Relationship Diagram)](#dataset-structure-and-erd-entity-relationship-diagram)
+4. [Insights Deep-Dive](#insights-deep-dive)  
+   - [Upload Frequency and Engagement](#upload-frequency-and-engagement)  
+   - [Video Duration and Engagement](#video-duration-and-engagement)  
+   - [Video Topics and Engagement](#video-topics-and-engagement)
+5. [Conclusion](#conclusion)
+6. [Credits](#credits)
+   
+## Project Background
+
+As a 23-year-old, I recently developed an interest in trading and focused on simple strategies rather than complex ones. After watching a [YouTube video on Dollar-Cost Averaging (DCA)](https://www.youtube.com/watch?v=1rxggA1Mm2s&t=2467s), supported by strong 10-year backtesting results, I wanted to understand if it truly works using QQQ (a Nasdaq ETF). 
+
+Since the results seemed too good to be true, the first part of this repository validates DCA by comparing it with other strategies. The second part examines its limitations and explores whether a prediction‑based DCA approach can address these issues and be applied realistically over the next four years.
+
+## Executive Summary
+
+
 
 ## Academic & Professional Contribution
 
